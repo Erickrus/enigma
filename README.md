@@ -1,4 +1,4 @@
-# enigma
+# Python Enigma Machine
 This is an Enigma machine, written by Eric 2021.
 This code based on Mike Pound's github repository:
 https://github.com/mikepound/enigma .
